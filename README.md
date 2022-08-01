@@ -38,4 +38,4 @@ Here, successful metric to be tracked is **Retention Rate**. It's also possible 
 
 Finally, the main goal is to compare Retention Rates between Test and Control groups and find out whether this difference is statistically significant (not due to random chance) to decide if the change of uplifting the round where user encounters the gate is actually needed. 
 
-*The next steps of Data Analysis (data cleaning, EDA, A/B test data inferences, visualizations) are in the Jupyter Notebook provided in the repository.*
+*The next steps of Data Analysis (data cleaning, EDA, A/B test data inferences, visualizations) are in the Jupyter Notebook provided in the repository as well as the original .csv data file.*

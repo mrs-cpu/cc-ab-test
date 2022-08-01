@@ -37,3 +37,5 @@ To admit the test is successfull, H0 should be rejected and H1 should be accepte
 Here, successful metric to be tracked is **Retention Rate**. It's also possible to set gurdial metric to be aware of how user activity changes: user engagment. How actively users play in the first n number of rounds. 
 
 Finally, the main goal is to compare Retention Rates between Test and Control groups and find out whether this difference is statistically significant (not due to random chance) to decide if the change of uplifting the round where user encounters the gate is actually needed. 
+
+*The next steps of Data Analysis (data cleaning, EDA, A/B test data inferences, visualizations) are in the Jupyter Notebook provided in the repository.*

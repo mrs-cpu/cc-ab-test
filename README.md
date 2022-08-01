@@ -14,7 +14,7 @@ Results of this test will provide insights to the following question: does encou
 
 DataCamp project descriptions and Kaggle provide a brief yet complete description on what every feature mean in the dataset.
 
-1) *userid* - id assigned to user 
+1) *userid* - unique id assigned to user 
 
 2) *version*: **gate_30** - users in the **control** group, 
               **gate_40** - users in the **test** group

@@ -30,7 +30,7 @@ DataCamp project descriptions and Kaggle provide a brief yet complete descriptio
 
 H0: Encountering the gate at round 40 will not change Retention Rate
 
-H1: Encountering the gate at round 40 will increase Retention Rate
+H1: Encountering the gate at round 40 will change Retention Rate (hopefully, increasingly)
 
 To admit the test is successfull, H0 should be rejected and H1 should be accepted based on a p-value. 
 

@@ -33,7 +33,7 @@ H1: Encountering the gate at round 40 will change Retention Rate
 
 To admit the test is successfull, H0 should be rejected and H1 should be accepted based on a p-value. 
 
-Here, successful metric to be tracked is **Retention Rate**. It's also possible to set gurdial metric to be aware of how user activity changes: user engagment. How actively users play in the first n number of rounds.  
+Here, successful metric to be tracked is **Retention Rate**. It's also possible to set guardial metric to be aware of how user activity changes: user engagement. How actively users play in the first n number of rounds.  
 
 Finally, the main goal is to compare Retention Rates between Test and Control groups and find out whether this difference is statistically significant (not due to random chance) to decide if the change of uplifting the round where user encounters the gate is actually needed. 
 
